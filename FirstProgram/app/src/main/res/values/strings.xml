@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">First Program</string>
+    <string name="text">Hello world!</string>
+    <string name="text_colors">Text color</string>
+    <string name="click">Clickable</string>
+    <string name="yellow">Yellow</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="nextWindow">-></string>
+</resources>
